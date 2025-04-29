@@ -1,0 +1,4 @@
+source;share/megumin/local_setup.bash
+source;share/megumin/local_setup.dsv
+source;share/megumin/local_setup.sh
+source;share/megumin/local_setup.zsh

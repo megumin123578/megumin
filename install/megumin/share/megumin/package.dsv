@@ -1,0 +1,8 @@
+source;share/megumin/hook/cmake_prefix_path.ps1
+source;share/megumin/hook/cmake_prefix_path.dsv
+source;share/megumin/hook/cmake_prefix_path.sh
+source;share/megumin/local_setup.bash
+source;share/megumin/local_setup.dsv
+source;share/megumin/local_setup.ps1
+source;share/megumin/local_setup.sh
+source;share/megumin/local_setup.zsh

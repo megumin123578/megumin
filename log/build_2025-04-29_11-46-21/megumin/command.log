@@ -1,0 +1,4 @@
+Invoking command in '/home/megumin/dev_ws/build/megumin': /usr/bin/cmake --build /home/megumin/dev_ws/build/megumin -- -j12 -l12
+Invoked command in '/home/megumin/dev_ws/build/megumin' returned '0': /usr/bin/cmake --build /home/megumin/dev_ws/build/megumin -- -j12 -l12
+Invoking command in '/home/megumin/dev_ws/build/megumin': /usr/bin/cmake --install /home/megumin/dev_ws/build/megumin
+Invoked command in '/home/megumin/dev_ws/build/megumin' returned '0': /usr/bin/cmake --install /home/megumin/dev_ws/build/megumin

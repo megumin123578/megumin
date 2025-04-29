@@ -1,0 +1,4 @@
+Invoking command in '/home/megumin/dev_ws/build/megumin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/megumin/dev_ws/build/megumin -- -j12 -l12
+Invoked command in '/home/megumin/dev_ws/build/megumin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/megumin/dev_ws/build/megumin -- -j12 -l12
+Invoking command in '/home/megumin/dev_ws/build/megumin': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/megumin/dev_ws/build/megumin
+Invoked command in '/home/megumin/dev_ws/build/megumin' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/megumin/dev_ws/build/megumin
